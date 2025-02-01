@@ -1,0 +1,17 @@
+{
+  "name": "zofsj-restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
